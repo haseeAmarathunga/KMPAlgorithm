@@ -1,3 +1,7 @@
+//Input given as Command line argument in following structure.
+// java KMP text pattern
+//Developed by Hasee Amarathunga
+
 import java.util.*;
 class KMP
 {
