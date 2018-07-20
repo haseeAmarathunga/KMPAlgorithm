@@ -4,7 +4,7 @@ class KMP
     public static void main(String args[])
     {
         String pat=args[1];
-        System.out.println(Arrays.toString(PrefixFun(pat)));
+        System.out.println("Prefix Array : "+Arrays.toString(PrefixFun(pat)));
         KMPSearch(args[0],args[1]);
     }
 
